@@ -1,0 +1,1 @@
+A Python module for processing and analyzing student data in CSV format. This system handles reading and writing student records, filtering by section and average scores, and generating detailed statistics.
